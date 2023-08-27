@@ -1,4 +1,4 @@
-# SamDSK:Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation
+# SamDSK: Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation
 
 The manuscript can be found in the PDF file contained in this repo.
 
